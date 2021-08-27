@@ -25,12 +25,19 @@
       "postId": 1
     }
   ],
-  "profile": {
-    "id":1
+  "profile": [
+    {
+    "id":1,
     "first_name":"Kanhaiya",
     "last_name":"Mishra",
-    "Address":{"first":"#111 Hidden ridge Dr. ","second":"Hudson Lane","city":"Irvine","State":"TX","postal_code":"45012"}
+    "Address":[{"first":"#111 Hidden ridge Dr. ",
+                "second":"Hudson Lane",
+                "city":"Irvine",
+                "State":"TX",
+                "postal_code":"45012"
+               }],
     "phone_no":"001123654789",
     "cell_phone":"05689658965"
   }
+  ]
 }
